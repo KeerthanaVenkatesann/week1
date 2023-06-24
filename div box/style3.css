@@ -1,0 +1,99 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*{margin:0% ;
+padding: 0%;}
+
+
+.kee1,.kee2,.kee21,.kee3,.kee31,.kee32,.kee4,.kee41,.kee42,.kee43,.kee5,.kee51,.kee52,.kee53,.kee54,.kee6,.kee61,.kee62,.kee63,.kee64,.kee65,.kee7,.kee71,.kee72,.kee73,.kee74,.kee75,.kee76,.kee8,.kee81,.kee82,.kee83,.kee84,.kee85,.kee86,.kee87,.kee9,.kee91,.kee92,.kee93,.kee94,.kee95,.kee96,.kee97,.kee98,.kee10,.kee101,.kee102,.kee103,.kee104,.kee105,.kee106,.kee107,.kee108,.kee109{
+    
+    width: 900px;
+    height:50px;
+    border: 20px;}
+
+
+    
+    .main{display:flex;
+    }
+    
+    .kee1{ 
+    width:auto ;}
+
+    .kee1{background-color: rgb(28, 163, 163);}
+    .kee2{background-color: rgb(100, 100, 177);}
+    .kee21{background-color: rgb(70, 31, 106);}
+    .kee3{background-color: rgb(33, 89, 146);}
+    .kee31{background-color: rgb(65, 65, 183);}
+    .kee32{background-color: rgb(68, 59, 130);}
+
+.kee4{background-color: blue;}
+.kee41{background-color: midnightblue;}
+.kee42{background-color: navy;}
+.kee43{background-color: rebeccapurple;}
+.kee5{background-color: rgb(178, 95, 238);}
+.kee51{background-color: rgb(94, 94, 230);}
+.kee52{background-color: rgb(17, 88, 84);}
+.kee53{background-color: rgb(12, 12, 78);}
+.kee54{background-color: turquoise;}
+.kee6{background-color: rgb(7, 122, 122);}
+.kee61{background-color: rgb(37, 37, 155);}
+.kee62{background-color: rgb(5, 5, 116);}
+.kee63{background-color: rgb(134, 89, 176);}
+.kee64{background-color: rgb(76, 18, 118);}
+.kee65{background-color: darkviolet;}
+.kee7{background-color: rgb(175, 57, 205);}
+.kee71{background-color: rgb(72, 72, 118);}
+.kee72{background-color: darkmagenta;}
+.kee73{background-color: rgb(105, 33, 87);}
+.kee74{background-color: rgb(40, 40, 236);}
+.kee75{background-color: rgb(120, 120, 235);}
+.kee76{background-color: blueviolet;}
+.kee8{background-color: mediumpurple;}
+.kee81{background-color: violet;}
+.kee82{background-color:lightseagreen ;}
+.kee83{background-color: rgb(29, 29, 69);}
+.kee84{background-color: rgb(9, 9, 108);}
+.kee85{background-color: rgb(102, 25, 102);}
+.kee86{background-color: rgb(46, 46, 166);}
+.kee87{background-color: rgb(48, 15, 72);}
+.kee9{background-color: rgb(31, 3, 30);}
+.kee91{background-color: darkslategray;}
+.kee92{background-color: deepskyblue;}
+.kee93{background-color: mediumpurple;}
+.kee94{background-color: darkslateblue;}
+.kee95{background-color: indianred;}
+.kee96{background-color: rgb(74, 74, 93);}
+.kee97{background-color: rgb(54, 2, 174);}
+.kee98{background-color: mediumvioletred;}
+.kee10{background-color: blue;}
+.kee101{background-color: blueviolet;}
+.kee102{background-color: deeppink;}
+.kee103{background-color: rgb(102, 42, 102);}
+.kee104{background-color: rgb(9, 9, 85);}
+.kee105{background-color: lightskyblue;}
+.kee106{background-color: rgb(72, 72, 128);}
+.kee107{background-color: rgb(38, 20, 118);}
+.kee108{background-color: rgb(9, 9, 90);}
+.kee109{background-color: mediumblue;}
